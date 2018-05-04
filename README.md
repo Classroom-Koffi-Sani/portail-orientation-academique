@@ -1,6 +1,11 @@
 # portail-orientation-academique
 Portail d'orientation académique 
 
+## Membres du groupe
+- ANAGONOU
+- DEGBE Mawuenam
+- LATE
+- TCHINTCHIN
 
 ## Objectif
 Nous souhaitons nous doter d'une application permettant d'orienter les bacheliers dans des filières en fonction de leur bac et de leurs notes.
